@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+clientes.json
+productos.json
+pedidos.json
+
+sistema_ventas.xlsx
+backup_sistema_ventas.xlsx
+clientes.xlsx
+
+cotización.docx
+
+.env
